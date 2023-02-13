@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(img.jpg);
+    background-image: url("https://github.com/akashbhaskar2011/akashbhaskar2011.github.io/blob/75a5356a7219eb60244ac9ad5bdbb3a5400a07fa/img.jpg");
     background-size: cover;
     background-position: center;
 }
